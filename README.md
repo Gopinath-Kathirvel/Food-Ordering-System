@@ -1,2 +1,2 @@
-# Furniture-Management-System
-Furniture Management System using HTML,CSS,JavaScript.
+# Food Ordering System
+Food ordering system using HTML,CSS,JavaScript.
